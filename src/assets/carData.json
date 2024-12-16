@@ -1,0 +1,1702 @@
+[
+  {
+    "itemNumber": 1,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2022,
+    "price": "$68,967",
+    "mileage": "29742 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Android Auto",
+      "Sports Suspension",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613538712814-42d97ce67d78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMEFjY29yZHxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 2,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2023,
+    "price": "$90,026",
+    "mileage": "18481 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Android Auto",
+      "Backup Camera",
+      "Apple CarPlay"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613538712814-42d97ce67d78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMEFjY29yZHxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 3,
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 2022,
+    "price": "$99,164",
+    "mileage": "21292 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Leather Seats",
+      "Apple CarPlay",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1724185116572-e59c2b205396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwRXhwbG9yZXJ8ZW58MHx8fHwxNzM0Mjc0MjMxfDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 4,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2024,
+    "price": "$73,223",
+    "mileage": "17677 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Sports Suspension",
+      "Sunroof",
+      "Heated Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1634605461080-124ca565afe8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBDYW1yeXxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 5,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2022,
+    "price": "$69,074",
+    "mileage": "16987 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Apple CarPlay",
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613538712814-42d97ce67d78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMEFjY29yZHxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 6,
+    "make": "Tesla",
+    "model": "Model X",
+    "year": 2021,
+    "price": "$96,764",
+    "mileage": "33058 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Panoramic Sunroof",
+      "Navigation",
+      "Leather Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/flagged/photo-1556569950-a8c536b24443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwWHxlbnwwfHx8fDE3MzQyNzQyMzJ8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 7,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2024,
+    "price": "$65,591",
+    "mileage": "10689 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Panoramic Sunroof",
+      "Panoramic Sunroof",
+      "Heated Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1631547891859-184677884115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMENpdmljfGVufDB8fHx8MTczNDI3NDIzMnww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 8,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2024,
+    "price": "$99,177",
+    "mileage": "45785 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Android Auto",
+      "Android Auto",
+      "Navigation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1585011664466-b7bbe92f34ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwM3xlbnwwfHx8fDE3MzQyNzQyMzJ8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 9,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2021,
+    "price": "$82,359",
+    "mileage": "21949 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Leather Seats",
+      "Sports Suspension",
+      "Leather Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619682817481-e994891cd1f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBDb3JvbGxhfGVufDB8fHx8MTczNDI3NDIzMnww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 10,
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2023,
+    "price": "$66,779",
+    "mileage": "36539 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Panoramic Sunroof",
+      "Bluetooth",
+      "Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1706646533911-4b36c6e9b452?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBIaWdobGFuZGVyfGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 11,
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2023,
+    "price": "$64,563",
+    "mileage": "45605 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Backup Camera",
+      "Navigation",
+      "Navigation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1564435147636-8ca0966b0275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwRi0xNTB8ZW58MHx8fHwxNzM0Mjc0MjMzfDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 12,
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2021,
+    "price": "$27,202",
+    "mileage": "28424 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Heated Seats",
+      "Sports Suspension",
+      "Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1671078215617-13242979a317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwWXxlbnwwfHx8fDE3MzQyNzQyMzN8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 13,
+    "make": "Ford",
+    "model": "Mustang GT",
+    "year": 2021,
+    "price": "$62,627",
+    "mileage": "33851 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Backup Camera",
+      "Panoramic Sunroof",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1555160329-6a0ccf5c91f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwTXVzdGFuZyUyMEdUfGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 14,
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2020,
+    "price": "$44,260",
+    "mileage": "6635 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Apple CarPlay",
+      "Leather Seats",
+      "Navigation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1671078215617-13242979a317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwWXxlbnwwfHx8fDE3MzQyNzQyMzN8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 15,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2022,
+    "price": "$43,530",
+    "mileage": "46374 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Panoramic Sunroof",
+      "Sports Suspension",
+      "Heated Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619682817481-e994891cd1f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBDb3JvbGxhfGVufDB8fHx8MTczNDI3NDIzMnww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 16,
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2024,
+    "price": "$51,872",
+    "mileage": "48586 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Sunroof",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1617469767053-d3b523a0b982?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBSQVY0fGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 17,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2022,
+    "price": "$98,647",
+    "mileage": "53443 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Heated Seats",
+      "Apple CarPlay",
+      "Leather Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1634605461080-124ca565afe8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBDYW1yeXxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 18,
+    "make": "BMW",
+    "model": "X5",
+    "year": 2024,
+    "price": "$82,654",
+    "mileage": "16319 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Sunroof",
+      "Android Auto",
+      "Apple CarPlay"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1635990215241-4d2805d729bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjBYNXxlbnwwfHx8fDE3MzQyNzQyMzR8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 19,
+    "make": "BMW",
+    "model": "X5",
+    "year": 2021,
+    "price": "$20,436",
+    "mileage": "7163 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Panoramic Sunroof",
+      "Sports Suspension",
+      "Bluetooth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1635990215241-4d2805d729bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjBYNXxlbnwwfHx8fDE3MzQyNzQyMzR8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 20,
+    "make": "Honda",
+    "model": "Pilot",
+    "year": 2020,
+    "price": "$85,843",
+    "mileage": "10168 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Backup Camera",
+      "Panoramic Sunroof",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1494367079857-303d616995e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMFBpbG90fGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 21,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2021,
+    "price": "$33,688",
+    "mileage": "18378 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Heated Seats",
+      "Apple CarPlay",
+      "Bluetooth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613538712814-42d97ce67d78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMEFjY29yZHxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 22,
+    "make": "BMW",
+    "model": "5 Series",
+    "year": 2020,
+    "price": "$42,100",
+    "mileage": "8604 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1728216294364-3ca44ecfff31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjA1JTIwU2VyaWVzfGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 23,
+    "make": "Ford",
+    "model": "Mustang GT",
+    "year": 2021,
+    "price": "$35,767",
+    "mileage": "50575 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Sports Suspension",
+      "Heated Seats",
+      "Leather Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1555160329-6a0ccf5c91f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwTXVzdGFuZyUyMEdUfGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 24,
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2021,
+    "price": "$53,102",
+    "mileage": "14148 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Leather Seats",
+      "Heated Seats",
+      "Heated Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1653751749083-63c81f5f3d00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjAzJTIwU2VyaWVzfGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 25,
+    "make": "BMW",
+    "model": "5 Series",
+    "year": 2023,
+    "price": "$29,627",
+    "mileage": "43273 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Bluetooth",
+      "Android Auto",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1728216294364-3ca44ecfff31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjA1JTIwU2VyaWVzfGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 26,
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2021,
+    "price": "$28,286",
+    "mileage": "52890 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Navigation",
+      "Backup Camera",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1617469767053-d3b523a0b982?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBSQVY0fGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 27,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2021,
+    "price": "$86,664",
+    "mileage": "31523 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Sunroof",
+      "Backup Camera",
+      "Apple CarPlay"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619682817481-e994891cd1f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBDb3JvbGxhfGVufDB8fHx8MTczNDI3NDIzMnww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 28,
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2020,
+    "price": "$95,786",
+    "mileage": "31910 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Android Auto",
+      "Backup Camera",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1706646533911-4b36c6e9b452?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBIaWdobGFuZGVyfGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 29,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2022,
+    "price": "$51,624",
+    "mileage": "42886 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Apple CarPlay",
+      "Sports Suspension"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619682817481-e994891cd1f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBDb3JvbGxhfGVufDB8fHx8MTczNDI3NDIzMnww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 30,
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2023,
+    "price": "$29,906",
+    "mileage": "28589 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Android Auto",
+      "Backup Camera",
+      "Heated Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1634512974147-2ffeec9bf892?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMENSLVZ8ZW58MHx8fHwxNzM0Mjc0MjM1fDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 31,
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 2023,
+    "price": "$49,814",
+    "mileage": "17852 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Leather Seats",
+      "Apple CarPlay",
+      "Navigation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1724185116572-e59c2b205396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwRXhwbG9yZXJ8ZW58MHx8fHwxNzM0Mjc0MjMxfDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 32,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2024,
+    "price": "$74,565",
+    "mileage": "50833 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Navigation",
+      "Navigation",
+      "Bluetooth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1634605461080-124ca565afe8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBDYW1yeXxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 33,
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 2024,
+    "price": "$73,775",
+    "mileage": "30616 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Android Auto",
+      "Bluetooth",
+      "Heated Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1724185116572-e59c2b205396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwRXhwbG9yZXJ8ZW58MHx8fHwxNzM0Mjc0MjMxfDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 34,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2024,
+    "price": "$46,762",
+    "mileage": "42624 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Bluetooth",
+      "Sports Suspension",
+      "Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613538712814-42d97ce67d78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMEFjY29yZHxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 35,
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2022,
+    "price": "$24,152",
+    "mileage": "40139 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Apple CarPlay",
+      "Sports Suspension",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1564435147636-8ca0966b0275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwRi0xNTB8ZW58MHx8fHwxNzM0Mjc0MjMzfDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 36,
+    "make": "Honda",
+    "model": "Pilot",
+    "year": 2020,
+    "price": "$60,018",
+    "mileage": "46240 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Panoramic Sunroof",
+      "Navigation",
+      "Bluetooth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1494367079857-303d616995e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMFBpbG90fGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 37,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2020,
+    "price": "$38,321",
+    "mileage": "46569 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Heated Seats",
+      "Backup Camera",
+      "Sports Suspension"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1585011664466-b7bbe92f34ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwM3xlbnwwfHx8fDE3MzQyNzQyMzJ8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 38,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2022,
+    "price": "$23,863",
+    "mileage": "14992 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Panoramic Sunroof",
+      "Heated Seats",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613538712814-42d97ce67d78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMEFjY29yZHxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 39,
+    "make": "BMW",
+    "model": "5 Series",
+    "year": 2021,
+    "price": "$64,286",
+    "mileage": "13689 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Android Auto",
+      "Sports Suspension",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1728216294364-3ca44ecfff31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjA1JTIwU2VyaWVzfGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 40,
+    "make": "BMW",
+    "model": "5 Series",
+    "year": 2024,
+    "price": "$75,940",
+    "mileage": "18443 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Backup Camera",
+      "Sunroof",
+      "Apple CarPlay"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1728216294364-3ca44ecfff31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjA1JTIwU2VyaWVzfGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 41,
+    "make": "BMW",
+    "model": "X3",
+    "year": 2022,
+    "price": "$66,188",
+    "mileage": "17415 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Heated Seats",
+      "Sports Suspension",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1717082832138-b8f332d86a2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjBYM3xlbnwwfHx8fDE3MzQyNzQyMzV8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 42,
+    "make": "Ford",
+    "model": "Mustang GT",
+    "year": 2024,
+    "price": "$41,518",
+    "mileage": "11796 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Apple CarPlay",
+      "Backup Camera",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1555160329-6a0ccf5c91f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwTXVzdGFuZyUyMEdUfGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 43,
+    "make": "Ford",
+    "model": "Mustang GT",
+    "year": 2024,
+    "price": "$71,681",
+    "mileage": "37788 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Backup Camera",
+      "Panoramic Sunroof",
+      "Bluetooth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1555160329-6a0ccf5c91f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwTXVzdGFuZyUyMEdUfGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 44,
+    "make": "BMW",
+    "model": "5 Series",
+    "year": 2020,
+    "price": "$86,057",
+    "mileage": "35056 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Apple CarPlay"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1728216294364-3ca44ecfff31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjA1JTIwU2VyaWVzfGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 45,
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2023,
+    "price": "$46,117",
+    "mileage": "12115 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Leather Seats",
+      "Heated Seats",
+      "Sports Suspension"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1653751749083-63c81f5f3d00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjAzJTIwU2VyaWVzfGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 46,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2023,
+    "price": "$99,939",
+    "mileage": "25818 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Leather Seats",
+      "Bluetooth",
+      "Leather Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1634605461080-124ca565afe8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBDYW1yeXxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 47,
+    "make": "Tesla",
+    "model": "Model S",
+    "year": 2023,
+    "price": "$32,774",
+    "mileage": "45125 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Bluetooth",
+      "Sports Suspension",
+      "Navigation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1640809476408-f19832acddb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwU3xlbnwwfHx8fDE3MzQyNzQyMzV8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 48,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2023,
+    "price": "$24,049",
+    "mileage": "54156 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "Sports Suspension"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1585011664466-b7bbe92f34ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwM3xlbnwwfHx8fDE3MzQyNzQyMzJ8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 49,
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2023,
+    "price": "$48,569",
+    "mileage": "16577 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Backup Camera",
+      "Leather Seats",
+      "Android Auto"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1706646533911-4b36c6e9b452?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBIaWdobGFuZGVyfGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 50,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "price": "$48,849",
+    "mileage": "50892 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Panoramic Sunroof",
+      "Panoramic Sunroof",
+      "Navigation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1631547891859-184677884115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMENpdmljfGVufDB8fHx8MTczNDI3NDIzMnww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 51,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "price": "$59,242",
+    "mileage": "49862 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Heated Seats",
+      "Leather Seats",
+      "Android Auto"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619682817481-e994891cd1f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBDb3JvbGxhfGVufDB8fHx8MTczNDI3NDIzMnww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 52,
+    "make": "Ford",
+    "model": "Edge",
+    "year": 2022,
+    "price": "$60,440",
+    "mileage": "29069 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Navigation",
+      "Backup Camera",
+      "Apple CarPlay"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1690278289651-895463644114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwRWRnZXxlbnwwfHx8fDE3MzQyNzQyMzV8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 53,
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2020,
+    "price": "$44,575",
+    "mileage": "42367 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Sunroof",
+      "Bluetooth",
+      "Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1671078215617-13242979a317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwWXxlbnwwfHx8fDE3MzQyNzQyMzN8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 54,
+    "make": "BMW",
+    "model": "X5",
+    "year": 2024,
+    "price": "$68,616",
+    "mileage": "42633 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Heated Seats",
+      "Apple CarPlay"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1635990215241-4d2805d729bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjBYNXxlbnwwfHx8fDE3MzQyNzQyMzR8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 55,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "price": "$21,658",
+    "mileage": "23457 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Bluetooth",
+      "Sunroof",
+      "Navigation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1631547891859-184677884115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMENpdmljfGVufDB8fHx8MTczNDI3NDIzMnww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 56,
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2023,
+    "price": "$22,977",
+    "mileage": "44059 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Heated Seats",
+      "Heated Seats",
+      "Bluetooth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1706646533911-4b36c6e9b452?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBIaWdobGFuZGVyfGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 57,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2020,
+    "price": "$37,503",
+    "mileage": "31115 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Panoramic Sunroof",
+      "Sunroof",
+      "Heated Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1585011664466-b7bbe92f34ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwM3xlbnwwfHx8fDE3MzQyNzQyMzJ8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 58,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2023,
+    "price": "$47,824",
+    "mileage": "33578 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Navigation",
+      "Leather Seats",
+      "Bluetooth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613538712814-42d97ce67d78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMEFjY29yZHxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 59,
+    "make": "BMW",
+    "model": "X5",
+    "year": 2020,
+    "price": "$64,990",
+    "mileage": "7673 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Backup Camera",
+      "Leather Seats",
+      "Android Auto"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1635990215241-4d2805d729bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjBYNXxlbnwwfHx8fDE3MzQyNzQyMzR8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 60,
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2024,
+    "price": "$40,617",
+    "mileage": "43241 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Navigation",
+      "Sports Suspension",
+      "Android Auto"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1634512974147-2ffeec9bf892?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMENSLVZ8ZW58MHx8fHwxNzM0Mjc0MjM1fDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 61,
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2024,
+    "price": "$90,463",
+    "mileage": "33698 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Android Auto",
+      "Heated Seats",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1671078215617-13242979a317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwWXxlbnwwfHx8fDE3MzQyNzQyMzN8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 62,
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 2023,
+    "price": "$59,900",
+    "mileage": "41161 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Android Auto",
+      "Android Auto",
+      "Bluetooth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1724185116572-e59c2b205396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwRXhwbG9yZXJ8ZW58MHx8fHwxNzM0Mjc0MjMxfDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 63,
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2022,
+    "price": "$55,683",
+    "mileage": "53565 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Backup Camera",
+      "Sports Suspension",
+      "Sports Suspension"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1706646533911-4b36c6e9b452?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBIaWdobGFuZGVyfGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 64,
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 2020,
+    "price": "$27,374",
+    "mileage": "44940 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Sports Suspension",
+      "Android Auto",
+      "Apple CarPlay"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1724185116572-e59c2b205396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwRXhwbG9yZXJ8ZW58MHx8fHwxNzM0Mjc0MjMxfDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 65,
+    "make": "Ford",
+    "model": "Mustang GT",
+    "year": 2021,
+    "price": "$82,387",
+    "mileage": "18039 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Sports Suspension",
+      "Panoramic Sunroof",
+      "Bluetooth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1555160329-6a0ccf5c91f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwTXVzdGFuZyUyMEdUfGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 66,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2023,
+    "price": "$32,561",
+    "mileage": "16265 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Sports Suspension",
+      "Sports Suspension",
+      "Heated Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619682817481-e994891cd1f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBDb3JvbGxhfGVufDB8fHx8MTczNDI3NDIzMnww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 67,
+    "make": "BMW",
+    "model": "X5",
+    "year": 2023,
+    "price": "$21,943",
+    "mileage": "33900 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Sports Suspension",
+      "Android Auto",
+      "Leather Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1635990215241-4d2805d729bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjBYNXxlbnwwfHx8fDE3MzQyNzQyMzR8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 68,
+    "make": "BMW",
+    "model": "5 Series",
+    "year": 2021,
+    "price": "$43,958",
+    "mileage": "22028 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Backup Camera",
+      "Android Auto",
+      "Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1728216294364-3ca44ecfff31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjA1JTIwU2VyaWVzfGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 69,
+    "make": "BMW",
+    "model": "X5",
+    "year": 2024,
+    "price": "$90,979",
+    "mileage": "23017 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Leather Seats",
+      "Panoramic Sunroof",
+      "Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1635990215241-4d2805d729bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjBYNXxlbnwwfHx8fDE3MzQyNzQyMzR8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 70,
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 2022,
+    "price": "$41,286",
+    "mileage": "41022 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Backup Camera",
+      "Apple CarPlay",
+      "Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1724185116572-e59c2b205396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwRXhwbG9yZXJ8ZW58MHx8fHwxNzM0Mjc0MjMxfDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 71,
+    "make": "Honda",
+    "model": "Pilot",
+    "year": 2024,
+    "price": "$38,554",
+    "mileage": "13215 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Sunroof",
+      "Sports Suspension",
+      "Android Auto"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1494367079857-303d616995e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMFBpbG90fGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 72,
+    "make": "Honda",
+    "model": "Pilot",
+    "year": 2020,
+    "price": "$92,377",
+    "mileage": "16075 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Sunroof",
+      "Bluetooth",
+      "Sports Suspension"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1494367079857-303d616995e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMFBpbG90fGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 73,
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2023,
+    "price": "$58,754",
+    "mileage": "52965 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Navigation",
+      "Sports Suspension",
+      "Heated Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1653751749083-63c81f5f3d00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjAzJTIwU2VyaWVzfGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 74,
+    "make": "BMW",
+    "model": "X3",
+    "year": 2021,
+    "price": "$20,840",
+    "mileage": "53650 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Apple CarPlay",
+      "Backup Camera",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1717082832138-b8f332d86a2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjBYM3xlbnwwfHx8fDE3MzQyNzQyMzV8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 75,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2022,
+    "price": "$26,911",
+    "mileage": "17921 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Leather Seats",
+      "Navigation",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613538712814-42d97ce67d78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMEFjY29yZHxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 76,
+    "make": "Tesla",
+    "model": "Model X",
+    "year": 2021,
+    "price": "$45,886",
+    "mileage": "10608 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Navigation",
+      "Panoramic Sunroof",
+      "Navigation"
+    ],
+    "imageUrl": "https://images.unsplash.com/flagged/photo-1556569950-a8c536b24443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwWHxlbnwwfHx8fDE3MzQyNzQyMzJ8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 77,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2022,
+    "price": "$44,249",
+    "mileage": "33279 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Navigation",
+      "Leather Seats",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613538712814-42d97ce67d78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMEFjY29yZHxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 78,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2022,
+    "price": "$23,416",
+    "mileage": "29668 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Heated Seats",
+      "Apple CarPlay",
+      "Bluetooth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613538712814-42d97ce67d78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMEFjY29yZHxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 79,
+    "make": "BMW",
+    "model": "X3",
+    "year": 2023,
+    "price": "$79,549",
+    "mileage": "35448 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Backup Camera",
+      "Heated Seats",
+      "Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1717082832138-b8f332d86a2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjBYM3xlbnwwfHx8fDE3MzQyNzQyMzV8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 80,
+    "make": "BMW",
+    "model": "5 Series",
+    "year": 2021,
+    "price": "$73,634",
+    "mileage": "13297 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Panoramic Sunroof",
+      "Backup Camera",
+      "Sports Suspension"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1728216294364-3ca44ecfff31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjA1JTIwU2VyaWVzfGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 81,
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2020,
+    "price": "$56,983",
+    "mileage": "38957 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Sunroof",
+      "Navigation",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1617469767053-d3b523a0b982?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBSQVY0fGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 82,
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2023,
+    "price": "$39,536",
+    "mileage": "45681 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "Bluetooth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1617469767053-d3b523a0b982?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBSQVY0fGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 83,
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2022,
+    "price": "$35,197",
+    "mileage": "35834 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Sports Suspension",
+      "Bluetooth",
+      "Sports Suspension"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1564435147636-8ca0966b0275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwRi0xNTB8ZW58MHx8fHwxNzM0Mjc0MjMzfDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 84,
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2024,
+    "price": "$88,551",
+    "mileage": "30227 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Apple CarPlay",
+      "Sports Suspension",
+      "Heated Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1634512974147-2ffeec9bf892?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMENSLVZ8ZW58MHx8fHwxNzM0Mjc0MjM1fDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 85,
+    "make": "Honda",
+    "model": "Pilot",
+    "year": 2023,
+    "price": "$74,294",
+    "mileage": "45552 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Leather Seats",
+      "Heated Seats",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1494367079857-303d616995e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMFBpbG90fGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 86,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2024,
+    "price": "$41,600",
+    "mileage": "43859 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Android Auto",
+      "Navigation",
+      "Bluetooth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613538712814-42d97ce67d78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMEFjY29yZHxlbnwwfHx8fDE3MzQyNzQyMzF8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 87,
+    "make": "BMW",
+    "model": "X5",
+    "year": 2021,
+    "price": "$94,264",
+    "mileage": "51438 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Backup Camera",
+      "Sunroof",
+      "Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1635990215241-4d2805d729bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjBYNXxlbnwwfHx8fDE3MzQyNzQyMzR8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 88,
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2024,
+    "price": "$46,900",
+    "mileage": "48195 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Sports Suspension",
+      "Apple CarPlay",
+      "Heated Seats"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1706646533911-4b36c6e9b452?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBIaWdobGFuZGVyfGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 89,
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2021,
+    "price": "$24,434",
+    "mileage": "14541 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Android Auto",
+      "Navigation",
+      "Sports Suspension"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1671078215617-13242979a317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwWXxlbnwwfHx8fDE3MzQyNzQyMzN8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 90,
+    "make": "BMW",
+    "model": "5 Series",
+    "year": 2020,
+    "price": "$93,640",
+    "mileage": "37514 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Android Auto",
+      "Heated Seats",
+      "Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1728216294364-3ca44ecfff31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjA1JTIwU2VyaWVzfGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 91,
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2022,
+    "price": "$40,237",
+    "mileage": "12050 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Sports Suspension",
+      "Bluetooth",
+      "Navigation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1617469767053-d3b523a0b982?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBSQVY0fGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Used"
+  },
+  {
+    "itemNumber": 92,
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2022,
+    "price": "$34,410",
+    "mileage": "41380 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Android Auto",
+      "Sunroof",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1617469767053-d3b523a0b982?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBSQVY0fGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 93,
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 2022,
+    "price": "$84,753",
+    "mileage": "45504 miles",
+    "engine": "Electric",
+    "transmission": "Manual",
+    "features": [
+      "Navigation",
+      "Android Auto",
+      "Navigation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1724185116572-e59c2b205396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwRXhwbG9yZXJ8ZW58MHx8fHwxNzM0Mjc0MjMxfDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 94,
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2020,
+    "price": "$95,924",
+    "mileage": "19520 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Heated Seats",
+      "Heated Seats",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1671078215617-13242979a317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwWXxlbnwwfHx8fDE3MzQyNzQyMzN8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 95,
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2023,
+    "price": "$90,654",
+    "mileage": "30069 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Apple CarPlay",
+      "Heated Seats",
+      "Apple CarPlay"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1634512974147-2ffeec9bf892?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxIb25kYSUyMENSLVZ8ZW58MHx8fHwxNzM0Mjc0MjM1fDA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 96,
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2020,
+    "price": "$75,291",
+    "mileage": "52791 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Panoramic Sunroof",
+      "Sunroof",
+      "Sports Suspension"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1706646533911-4b36c6e9b452?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBIaWdobGFuZGVyfGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 97,
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2022,
+    "price": "$29,723",
+    "mileage": "32656 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Backup Camera",
+      "Bluetooth",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1671078215617-13242979a317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyME1vZGVsJTIwWXxlbnwwfHx8fDE3MzQyNzQyMzN8MA&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "New"
+  },
+  {
+    "itemNumber": 98,
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2020,
+    "price": "$85,184",
+    "mileage": "46388 miles",
+    "engine": "V6",
+    "transmission": "Manual",
+    "features": [
+      "Heated Seats",
+      "Leather Seats",
+      "Panoramic Sunroof"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1617469767053-d3b523a0b982?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBSQVY0fGVufDB8fHx8MTczNDI3NDIzM3ww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 99,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2023,
+    "price": "$92,957",
+    "mileage": "9889 miles",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Panoramic Sunroof",
+      "Heated Seats",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619682817481-e994891cd1f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxUb3lvdGElMjBDb3JvbGxhfGVufDB8fHx8MTczNDI3NDIzMnww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  },
+  {
+    "itemNumber": 100,
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2023,
+    "price": "$65,056",
+    "mileage": "7202 miles",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "features": [
+      "Panoramic Sunroof",
+      "Leather Seats",
+      "Apple CarPlay"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1653751749083-63c81f5f3d00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2ODY3MDZ8MHwxfHNlYXJjaHwxfHxCTVclMjAzJTIwU2VyaWVzfGVufDB8fHx8MTczNDI3NDIzNHww&ixlib=rb-4.0.3&q=80&w=400",
+    "condition": "Certified Pre-Owned"
+  }
+]

@@ -1,0 +1,41 @@
+<div class="container">
+  <h2>Available Cars</h2>
+  <input
+    type="text"
+    placeholder="Search by Make or Model..."
+    (input)="filterCars($event)"
+    class="search-bar"
+  />
+
+  <!-- Car List View -->
+  <div class="cars-container" *ngIf="!selectedCar">
+    <div
+      *ngFor="let car of filteredCars"
+      class="car-card"
+      (click)="viewDetails(car)"
+    >
+      <img
+        [src]="car.imageUrl"
+        alt="{{ car.make }} {{ car.model }}"
+        class="car-image"
+      />
+      <h3>{{ car.make }} {{ car.model }}</h3>
+    </div>
+  </div>
+
+  <!-- Car Detail View -->
+  <div *ngIf="selectedCar" class="car-details">
+    <h2>{{ selectedCar.make }} {{ selectedCar.model }}</h2>
+    <img
+      [src]="selectedCar.imageUrl"
+      alt="{{ selectedCar.make }} {{ selectedCar.model }}"
+      class="car-image"
+    />
+    <p><strong>Year:</strong> {{ selectedCar.year }}</p>
+    <p><strong>Price:</strong> ${{ selectedCar.price }}</p>
+    <p><strong>Engine:</strong> {{ selectedCar.engine }}</p>
+    <p><strong>Transmission:</strong> {{ selectedCar.transmission }}</p>
+    <button (click)="backToCars()">Back to Cars</button>
+  </div>
+</div>
+

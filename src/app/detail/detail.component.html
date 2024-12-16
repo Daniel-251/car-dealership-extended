@@ -1,0 +1,27 @@
+<div class="detail-container" *ngIf="car">
+  <!-- Car Image -->
+  <img
+    [src]="car.imageUrl"
+    alt="{{ car.make }} {{ car.model }}"
+    class="detail-image"
+  />
+
+  <!-- Car Details -->
+  <h2>{{ car.make }} {{ car.model }}</h2>
+  <p><strong>Year:</strong> {{ car.year }}</p>
+  <p><strong>Price:</strong> ${{ car.price }}</p>
+  <p><strong>Mileage:</strong> {{ car.mileage }}</p>
+  <p><strong>Engine:</strong> {{ car.engine }}</p>
+  <p><strong>Transmission:</strong> {{ car.transmission }}</p>
+  <p><strong>Features:</strong> {{ car.features?.join(', ') }}</p>
+  <p><strong>Condition:</strong> {{ car.condition }}</p>
+
+  <!-- Back Button -->
+  <button (click)="goBack()" class="back-button">Back to Cars</button>
+</div>
+
+<!-- Message for when car details are not available -->
+<div class="detail-container" *ngIf="!car">
+  <p>Car details are not available. Please return to the car list.</p>
+  <button (click)="goBack()" class="back-button">Back to Cars</button>
+</div>

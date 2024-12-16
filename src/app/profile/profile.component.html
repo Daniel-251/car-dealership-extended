@@ -1,0 +1,47 @@
+<div class="container">
+    <h2>Create Your Profile</h2>
+    <form (submit)="onSubmit()">
+      <label for="name">Name:</label>
+      <input
+        type="text"
+        id="name"
+        [(ngModel)]="profile.name"
+        name="name"
+        placeholder="Enter your name"
+        required
+      />
+  
+      <label for="email">Email:</label>
+      <input
+        type="email"
+        id="email"
+        [(ngModel)]="profile.email"
+        name="email"
+        placeholder="Enter your email"
+        required
+      />
+  
+      <label for="carsPurchased">Cars Purchased:</label>
+      <input
+        type="number"
+        id="carsPurchased"
+        [(ngModel)]="profile.carsPurchased"
+        name="carsPurchased"
+        placeholder="Number of cars purchased"
+        min="0"
+        required
+      />
+  
+      <button type="submit">Save Profile</button>
+    </form>
+  
+    <!-- Display saved profile -->
+    <div *ngIf="submitted" class="profile-details">
+      <h3>Profile Summary</h3>
+      <p><strong>Name:</strong> {{ profile.name }}</p>
+      <p><strong>Email:</strong> {{ profile.email }}</p>
+      <p><strong>Cars Purchased:</strong> {{ profile.carsPurchased }}</p>
+    </div>
+  </div>
+  
+  

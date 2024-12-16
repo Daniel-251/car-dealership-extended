@@ -1,0 +1,86 @@
+/* Global Styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: #007BFF; /* Link color */
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navigation Bar Styles */
+nav {
+  position: relative; /* Ensure nav stays on top */
+  z-index: 1000; /* Prevent overlapping issues */
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  display: inline-block; /* Proper link sizing */
+  margin: 10px;
+  padding: 10px;
+  color: white;
+  background-color: #007BFF;
+  border-radius: 5px;
+}
+
+nav a:hover {
+  background-color: #0056b3;
+}
+
+/* Container Styles */
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 20px;
+  background: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+/* Form Styles */
+form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+input, select, textarea {
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 8px;
+  box-sizing: border-box; /* Padding won't affect width */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

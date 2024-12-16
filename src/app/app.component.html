@@ -1,0 +1,14 @@
+<!-- Navigation Bar -->
+<nav style="background-color: #f8f9fa; padding: 10px; text-align: center;">
+  <button (click)="navigateTo('/login')">Login</button>
+  <button (click)="navigateTo('/global-view')">Available Cars</button>
+  <button (click)="navigateTo('/search')">Search Cars</button>
+  <button (click)="navigateTo('/purchase')">Purchase</button>
+  <button (click)="navigateTo('/profile')">Profile</button>
+  <button (click)="navigateTo('/contact')">Contact Us</button>
+</nav>
+
+<!-- Page Content -->
+<div class="container" style="margin-top: 20px;">
+  <router-outlet></router-outlet>
+</div>
